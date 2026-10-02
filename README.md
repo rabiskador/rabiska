@@ -1,5 +1,3 @@
-<img width="1024" height="360" alt="image" src="https://github.com/user-attachments/assets/b4f67e5b-c916-4257-9aa7-b7abbc8125ed" />
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1C20,100:335CFF&height=180&section=header&text=Zed&fontColor=5BDAFF&fontSize=64&fontAlignY=40&desc=automa%C3%A7%C3%A3o%20%C2%B7%20agentes%20de%20IA%20%C2%B7%20WhatsApp&descColor=FFFFFF&descAlignY=62" alt="Banner" />
