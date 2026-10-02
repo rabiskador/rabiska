@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1C20,100:335CFF&height=180&section=header&text=Zed&fontColor=5BDAFF&fontSize=64&fontAlignY=40&desc=automa%C3%A7%C3%A3o%20%C2%B7%20agentes%20de%20IA%20%C2%B7%20WhatsApp&descColor=FFFFFF&descAlignY=62" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1C20,100:335CFF&height=180&section=header&text=Maicon Sales&fontColor=5BDAFF&fontSize=64&fontAlignY=40&desc=automa%C3%A7%C3%A3o%20%C2%B7%20agentes%20de%20IA%20%C2%B7%20WhatsApp&descColor=FFFFFF&descAlignY=62" alt="Banner" />
 
 <a href="https://github.com/SEU_USUARIO">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=5BDAFF&center=true&vCenter=true&width=620&lines=%3E+construo+sistemas+para+organiza%C3%A7%C3%B5es+brasileiras;%3E+do+ch%C3%A3o+de+f%C3%A1brica+ao+atendimento+no+WhatsApp;%3E+IA+aplicada+a+problemas+reais" alt="Typing SVG" />
