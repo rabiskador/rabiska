@@ -151,9 +151,6 @@ Sempre aprendendo 🚀
 
 ### 🖤 "Transformando processos em sistemas e sistemas em soluções."
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6B7280" alt="Visitantes" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0D0D0D,100:6B7280" alt="Footer" />
 
 </div>
 
