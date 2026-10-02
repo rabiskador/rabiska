@@ -138,21 +138,14 @@ Sempre aprendendo 🚀
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9CED6)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=C9CED6)](https://wa.me/55SEUNUMERO)
-[![E-mail](https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9CED6)](mailto:SEU@EMAIL.COM)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9CED6)](https://github.com/rabiskador)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maicon-sales-516a77200)
+[![E-mail](https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9CED6)](risesolutions@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🖤 "Transformando processos em sistemas e sistemas em soluções."
-
-
-</div>
 
 <details>
 <summary>🇺🇸 English</summary>
