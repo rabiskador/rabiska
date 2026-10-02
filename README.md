@@ -2,7 +2,7 @@
 
 <img src="./assets/maicon-banner.png" alt="Maicon </>" width="720" />
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/rabiskador">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=C9CED6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;AUTOMA%C3%87%C3%83O+%2B+AGENTES+DE+IA;WHATSAPP+%7C+N8N+%7C+SUPABASE;IND%C3%9ASTRIA+%2B+SOFTWARE;BEM-VINDO+AO+MEU+C%C3%93DIGO" alt="Typing SVG" />
 </a>
 
@@ -46,7 +46,7 @@ const maicon = {
     ia: [
       "n8n",
       "Agentes de IA",
-      "RAG"
+      "RAG",
       "Python"
     ],
 
@@ -87,7 +87,7 @@ const maicon = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nextjs,tailwind,nodejs,express,deno,postgres,supabase,cloudflare,docker,git,github,vscode,postman,arduino&theme=dark&perline=10" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,react,nextjs,tailwind,nodejs,express,deno,postgres,supabase,cloudflare,docker,git,github,vscode,postman,arduino&theme=dark&perline=11" alt="Tech stack" />
 
 <br><br>
 
@@ -132,23 +132,23 @@ Sempre aprendendo 🚀
 
 ---
 
-
-
-## 🌎 Vamos conversar
+## 🐍 Animação de contribuições
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9CED6)](https://github.com/rabiskador)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-sales-516a77200)
+<img src="https://raw.githubusercontent.com/rabiskador/rabiskador/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 ---
 
+## 🌎 Vamos conversar
 
-<details>
-<summary>🇺🇸 English</summary>
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9CED6)](https://github.com/rabiskador)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-sales-516a77200)
+
+---
+
+**🇺🇸 English**
 
 I'm **Maicon Sales**, a developer based in Brazil. I build **automation, AI agents and messaging infrastructure** for companies and social-impact projects, from WhatsApp customer service to industrial maintenance systems.
-
-</details>
