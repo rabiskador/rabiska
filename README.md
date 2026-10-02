@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1C20,100:335CFF&height=180&section=header&text=Maicon Sales&fontColor=5BDAFF&fontSize=64&fontAlignY=40&desc=automa%C3%A7%C3%A3o%20%C2%B7%20agentes%20de%20IA%20%C2%B7%20WhatsApp&descColor=FFFFFF&descAlignY=62" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:6B7280&height=180&section=header&text=Maicon%20Sales&fontColor=C9CED6&fontSize=64&fontAlignY=40&desc=automa%C3%A7%C3%A3o%20%C2%B7%20agentes%20de%20IA%20%C2%B7%20WhatsApp&descColor=FFFFFF&descAlignY=62" alt="Banner" />
 
 <a href="https://github.com/SEU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=5BDAFF&center=true&vCenter=true&width=620&lines=%3E+construo+sistemas+para+organiza%C3%A7%C3%B5es+brasileiras;%3E+do+ch%C3%A3o+de+f%C3%A1brica+ao+atendimento+no+WhatsApp;%3E+IA+aplicada+a+problemas+reais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=C9CED6&center=true&vCenter=true&width=620&lines=%3E+construo+sistemas+para+organiza%C3%A7%C3%B5es+brasileiras;%3E+do+ch%C3%A3o+de+f%C3%A1brica+ao+atendimento+no+WhatsApp;%3E+IA+aplicada+a+problemas+reais" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 ## 👋 Quem sou eu
 
-Sou o **Maicon Sales **, desenvolvedor no Brasil. Construo **automações, agentes de IA e infraestrutura de mensageria** para empresas e projetos de impacto social, indo do atendimento no WhatsApp até a manutenção industrial.
+Sou o **Maicon Sales**, desenvolvedor no Brasil. Construo **automações, agentes de IA e infraestrutura de mensageria** para empresas e projetos de impacto social, indo do atendimento no WhatsApp até a manutenção industrial.
 
 ## 🛠️ O que eu construo
 
@@ -27,45 +27,49 @@ Sou o **Maicon Sales **, desenvolvedor no Brasil. Construo **automações, agent
 
 ## 🧰 Stack
 
-**IA & Agentes** &nbsp;
-![n8n](https://img.shields.io/badge/n8n-1A1C20?style=flat-square&logo=n8n&logoColor=5BDAFF)
-![RAG](https://img.shields.io/badge/RAG-1A1C20?style=flat-square&logoColor=5BDAFF)
-![LLMs](https://img.shields.io/badge/LLMs-1A1C20?style=flat-square&logoColor=5BDAFF)
+**Linguagens**<br>
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" alt="Linguagens" />
 
-**Backend & Infra** &nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-1A1C20?style=flat-square&logo=supabase&logoColor=5BDAFF)
-![Deno](https://img.shields.io/badge/Deno-1A1C20?style=flat-square&logo=deno&logoColor=5BDAFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-1A1C20?style=flat-square&logo=cloudflare&logoColor=5BDAFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1C20?style=flat-square&logo=postgresql&logoColor=5BDAFF)
+**Front-end**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Front-end" />
 
-**Front-end** &nbsp;
-![React](https://img.shields.io/badge/React-1A1C20?style=flat-square&logo=react&logoColor=5BDAFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1C20?style=flat-square&logo=typescript&logoColor=5BDAFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-1A1C20?style=flat-square&logo=tailwindcss&logoColor=5BDAFF)
+**Back-end JavaScript**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,deno,npm&theme=dark" alt="Back-end JavaScript" />
 
-**Industrial & Hardware** &nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-1A1C20?style=flat-square&logo=arduino&logoColor=5BDAFF)
-![SCADA](https://img.shields.io/badge/SCADA%20Elipse%20E3-1A1C20?style=flat-square&logoColor=5BDAFF)
+**Dados & Infra**<br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,cloudflare,docker&theme=dark" alt="Dados e Infra" />
 
-## 💙 Impacto social
+**Ferramentas**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Ferramentas" />
+
+**Automação & IA**<br>
+![n8n](https://img.shields.io/badge/n8n-0D0D0D?style=for-the-badge&logo=n8n&logoColor=C9CED6)
+![RAG](https://img.shields.io/badge/RAG-0D0D0D?style=for-the-badge&logoColor=C9CED6)
+![LLMs](https://img.shields.io/badge/LLMs-0D0D0D?style=for-the-badge&logoColor=C9CED6)
+
+**Industrial & Hardware**<br>
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+![SCADA](https://img.shields.io/badge/SCADA%20Elipse%20E3-0D0D0D?style=for-the-badge&logoColor=C9CED6)
+
+## 🖤 Impacto social
 
 Além dos projetos comerciais, desenvolvo ferramentas para organizações sociais, como agentes de IA e CRMs que ajudam ONGs a atender e captar apoio com menos esforço.
 
 ## 📫 Vamos conversar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-335CFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-1A1C20?style=for-the-badge&logo=whatsapp&logoColor=5BDAFF)](https://wa.me/55SEUNUMERO)
-[![E-mail](https://img.shields.io/badge/E--mail-1A1C20?style=for-the-badge&logo=gmail&logoColor=5BDAFF)](mailto:SEU@EMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=C9CED6)](https://wa.me/55SEUNUMERO)
+[![E-mail](https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9CED6)](mailto:SEU@EMAIL.COM)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=1A1C20&title_color=5BDAFF&text_color=FFFFFF&icon_color=335CFF" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9CED6&text_color=FFFFFF&icon_color=6B7280" alt="GitHub stats" />
 
 </div>
 
 <details>
 <summary>🇺🇸 English</summary>
 
-I'm **Zed**, a developer based in Brazil. I build **automation, AI agents and messaging infrastructure** for companies and social-impact projects, from WhatsApp customer service to industrial maintenance systems.
+I'm **Maicon Sales**, a developer based in Brazil. I build **automation, AI agents and messaging infrastructure** for companies and social-impact projects, from WhatsApp customer service to industrial maintenance systems.
 
 </details>
