@@ -140,7 +140,6 @@ Sempre aprendendo 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9CED6)](https://github.com/rabiskador)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-sales-516a77200)
-[![E-mail](https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9CED6)](risesolutions@gmail.com)
 
 </div>
 
