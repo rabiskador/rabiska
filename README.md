@@ -12,7 +12,7 @@
 
 ## 👋 Quem sou eu
 
-Sou o **Zed**, desenvolvedor no Brasil. Construo **automações, agentes de IA e infraestrutura de mensageria** para empresas e projetos de impacto social, indo do atendimento no WhatsApp até a manutenção industrial.
+Sou o **Maicon Sales **, desenvolvedor no Brasil. Construo **automações, agentes de IA e infraestrutura de mensageria** para empresas e projetos de impacto social, indo do atendimento no WhatsApp até a manutenção industrial.
 
 ## 🛠️ O que eu construo
 
