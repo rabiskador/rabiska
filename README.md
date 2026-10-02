@@ -1,69 +1,190 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:6B7280&height=180&section=header&text=Maicon%20Sales&fontColor=C9CED6&fontSize=64&fontAlignY=40&desc=automa%C3%A7%C3%A3o%20%C2%B7%20agentes%20de%20IA%20%C2%B7%20WhatsApp&descColor=FFFFFF&descAlignY=62" alt="Banner" />
+<img src="./assets/maicon-banner.png" alt="Maicon </>" width="720" />
 
 <a href="https://github.com/SEU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=C9CED6&center=true&vCenter=true&width=620&lines=%3E+construo+sistemas+para+organiza%C3%A7%C3%B5es+brasileiras;%3E+do+ch%C3%A3o+de+f%C3%A1brica+ao+atendimento+no+WhatsApp;%3E+IA+aplicada+a+problemas+reais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=C9CED6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;AUTOMA%C3%87%C3%83O+%2B+AGENTES+DE+IA;WHATSAPP+%7C+N8N+%7C+SUPABASE;IND%C3%9ASTRIA+%2B+SOFTWARE;BEM-VINDO+AO+MEU+C%C3%93DIGO" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 👋 Quem sou eu
+## 🤖 MAICON AI CORE
 
-Sou o **Maicon Sales**, desenvolvedor no Brasil. Construo **automações, agentes de IA e infraestrutura de mensageria** para empresas e projetos de impacto social, indo do atendimento no WhatsApp até a manutenção industrial.
+```
+╭────────────────────────────╮
+│     MAICON SYSTEM v2.0     │
+╰────────────────────────────╯
 
-## 🛠️ O que eu construo
+Inicializando sistema...
 
-| Projeto | O que faz | Stack |
-|---|---|---|
-| **Plataforma de disparos WhatsApp** | Orquestração de envios em lote, com filas, atrasos aleatórios e rodízio de chips com fallback automático. Sem n8n: tudo em Edge Functions e `pg_cron` | `React` `TypeScript` `Supabase` `Deno` |
-| **Infra de maturação de chips** | Aquecimento de números com fases, proxy por chip e conversas em português informal geradas por IA | `n8n` `Supabase` `Evolution API` |
-| **Agente de captação de doações** | Agente de IA no WhatsApp que conversa, tira dúvidas via RAG e conduz a doação por PIX, feito para uma ONG | `n8n` `Supabase Vector Store` `LLMs` |
-| **CRM para ONG** | Atendimentos, doações, Kanban, campanhas com variantes A/B, permissões por papel e log de auditoria | `Lovable` `Supabase` `RLS` |
-| **AI Mentor** | Plataforma educacional de IA para automação industrial, com agentes configuráveis e chat | `React` `Supabase` `Cloudflare` |
-| **PCM Smart** | Gestão de manutenção de refrigeração industrial, integrando SCADA a webhooks e agente de IA com lógica de alertas | `Elipse E3` `n8n` `Supabase` |
+████████████████████ 100%
 
-## 🧰 Stack
+✔ Desenvolvedor detectado
+✔ Automação ativada
+✔ Agentes de IA online
+✔ Projetos carregados
 
-**Linguagens**<br>
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" alt="Linguagens" />
+STATUS: ONLINE 🚀
+```
 
-**Front-end**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Front-end" />
+---
 
-**Back-end JavaScript**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,deno,npm&theme=dark" alt="Back-end JavaScript" />
+## 👨‍💻 Sobre mim
 
-**Dados & Infra**<br>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,cloudflare,docker&theme=dark" alt="Dados e Infra" />
+```js
+const maicon = {
 
-**Ferramentas**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Ferramentas" />
+  nome: "Maicon Sales",
 
-**Automação & IA**<br>
+  funcao: "Desenvolvedor | Automação & Agentes de IA",
+
+  local: "Brasil 🇧🇷",
+
+  stack: {
+    ia: [
+      "n8n",
+      "Agentes de IA",
+      "RAG"
+    ],
+
+    backend: [
+      "Node.js",
+      "Supabase",
+      "Deno",
+      "Python"
+    ],
+
+    frontend: [
+      "React",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+
+    industrial: [
+      "SCADA (Elipse E3)",
+      "Arduino"
+    ]
+  },
+
+  ferramentas: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Cloudflare"
+  ],
+
+  missao: "Transformar processos em sistemas inteligentes 🚀"
+
+}
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nextjs,tailwind,nodejs,express,deno,postgres,supabase,cloudflare,docker,git,github,vscode,postman,arduino&theme=dark&perline=10" alt="Tech stack" />
+
+<br><br>
+
 ![n8n](https://img.shields.io/badge/n8n-0D0D0D?style=for-the-badge&logo=n8n&logoColor=C9CED6)
 ![RAG](https://img.shields.io/badge/RAG-0D0D0D?style=for-the-badge&logoColor=C9CED6)
 ![LLMs](https://img.shields.io/badge/LLMs-0D0D0D?style=for-the-badge&logoColor=C9CED6)
-
-**Industrial & Hardware**<br>
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
 ![SCADA](https://img.shields.io/badge/SCADA%20Elipse%20E3-0D0D0D?style=for-the-badge&logoColor=C9CED6)
 
-## 🖤 Impacto social
+</div>
 
-Além dos projetos comerciais, desenvolvo ferramentas para organizações sociais, como agentes de IA e CRMs que ajudam ONGs a atender e captar apoio com menos esforço.
+---
 
-## 📫 Vamos conversar
+## 🚀 Projetos em destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=C9CED6)](https://wa.me/55SEUNUMERO)
-[![E-mail](https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9CED6)](mailto:SEU@EMAIL.COM)
+| 🚀 Projeto | 💡 Descrição |
+|---|---|
+| 📲 Plataforma de Disparos WhatsApp | Envios em lote com filas, atrasos aleatórios e rodízio de chips |
+| 🔥 Infra de Maturação de Chips | Aquecimento de números com proxies e conversas geradas por IA |
+| 🤖 Agente de Doações | Agente de IA no WhatsApp com RAG e PIX, feito para uma ONG |
+| 🗂️ CRM para ONG | Atendimentos, doações, Kanban e campanhas com variantes A/B |
+| 🎓 AI Mentor | Plataforma educacional de IA para automação industrial |
+| ❄️ PCM Smart | Manutenção de refrigeração industrial integrando SCADA e IA |
+
+---
+
+## 🧠 Missão atual
+
+```
+> Carregando objetivos...
+
+[█████████░] Agentes de IA & RAG
+
+[████████░░] Automação com n8n
+
+[███████░░░] Sistemas industriais (SCADA)
+
+[██████████] Criando projetos
+
+STATUS:
+Sempre aprendendo 🚀
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9CED6&text_color=FFFFFF&icon_color=6B7280" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9CED6&text_color=FFFFFF" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0D0D0D&ring=C9CED6&fire=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=6B7280" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&margin-w=15" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🐍 Animação de contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🌎 Vamos conversar
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9CED6)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=C9CED6)](https://wa.me/55SEUNUMERO)
+[![E-mail](https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9CED6)](mailto:SEU@EMAIL.COM)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🖤 "Transformando processos em sistemas e sistemas em soluções."
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6B7280" alt="Visitantes" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0D0D0D,100:6B7280" alt="Footer" />
 
 </div>
 
