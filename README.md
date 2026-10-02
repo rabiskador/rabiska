@@ -132,38 +132,7 @@ Sempre aprendendo 🚀
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9CED6&text_color=FFFFFF&icon_color=6B7280" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9CED6&text_color=FFFFFF" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0D0D0D&ring=C9CED6&fire=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=6B7280" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&margin-w=15" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 🐍 Animação de contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ## 🌎 Vamos conversar
 
