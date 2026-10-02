@@ -47,13 +47,13 @@ const maicon = {
       "n8n",
       "Agentes de IA",
       "RAG"
+      "Python"
     ],
 
     backend: [
       "Node.js",
       "Supabase",
-      "Deno",
-      "Python"
+      "Java"
     ],
 
     frontend: [
